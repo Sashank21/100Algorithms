@@ -1,1 +1,1 @@
-# 100days-100Algorithms
+100Algorithms
